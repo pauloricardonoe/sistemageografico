@@ -1,0 +1,9 @@
+#imglogo{
+    background-color: #FFFFFF;
+    height: 377px;
+    width: 368px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px;
+}
